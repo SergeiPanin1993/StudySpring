@@ -1,0 +1,63 @@
+.blockColor{
+    background-color: #ffda8f;
+}
+
+.menuConverter{
+    width: calc(100% - 10px);
+    text-align-last: center;
+}
+
+.textAreaConverter{
+    width: calc(100% - 10px);
+    height: 30px;
+}
+
+.blockResult{
+    width: calc(100% - 10px);
+    background: white;
+    text-align-last: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-color: black;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+}
+
+.blockResultRightLeft{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: calc(45% - 10px);
+    font-size: 14px;
+    text-align-last: center;
+
+
+}
+
+.blockEqually{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 10px;
+    font-size: 14px;
+    text-align-last: center;
+}
+.footer {
+    position: fixed;
+    left: 0; bottom: 0;
+    padding: 10px;
+    background: white;
+    width: 100%;
+}
+
+.vader {
+    background-color:black;
+    line-height: 0.1em;
+    color: white;
+    white-space: pre;
+    font-family: Lucida Console, monospace;
+    text-align: center;
+}
